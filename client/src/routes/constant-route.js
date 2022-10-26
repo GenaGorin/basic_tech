@@ -1,4 +1,4 @@
 export const LOGIN_ROUTE = "/login";
 export const REGISTRATION_ROUTE = "/registration";
-export const PROFILE_ROUTE = "/profile";
-export const USERS_ROUTE = "/users";
+export const PROFILE_ROUTE = "/account";
+export const USERS_ROUTE = "/people";
